@@ -1,5 +1,5 @@
 {
-  "name": "datetime-locale-galician",
+  "name": "@barcia/datetime-locale-galician",
   "version": "1.0.0",
   "type": "module",
   "description": "ESM Modules with strings related to time and dates in galician.",
