@@ -1,0 +1,18 @@
+{
+  "name": "datetime-locale-galician",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ESM Modules with strings related to time and dates in galician.",
+  "author": "Iván Barcia <ivan@barcia.dev> (https://barcia.dev)",
+  "homepage": "https://github.com/barcia/datetime-locale-galician/#README.md",
+  "bugs": {
+    "url": "https://github.com/barcia/datetime-locale-galician/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barcia/datetime-locale-galician.git"
+  },
+  "main": "gl.js",
+  "license": "MIT",
+  "keywords": [ "time", "date", "datetime", "galician", "locale", "locales", "strings", "intl", "i18n", "internationalization", "galego", "gl", "gl-ES", "gl-es", "gallego" ]
+}
