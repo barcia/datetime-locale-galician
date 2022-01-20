@@ -13,6 +13,10 @@
     "url": "https://github.com/barcia/datetime-locale-galician.git"
   },
   "main": "gl.js",
+  "scripts": {
+    "publish:github": "npm publish --registry='https://npm.pkg.github.com'",
+    "postpublish": "npm run publish:github"
+  },
   "license": "MIT",
   "keywords": [ "time", "date", "datetime", "galician", "locale", "locales", "strings", "intl", "i18n", "internationalization", "galego", "gl", "gl-ES", "gl-es", "gallego" ]
 }
